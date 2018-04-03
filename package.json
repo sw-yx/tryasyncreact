@@ -1,0 +1,16 @@
+{
+  "name": "testasyncreact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sw-yx <shawnthe1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html --no-cache --no-autoinstall"
+  },
+  "dependencies": {
+    "async-react-future": "0.0.1",
+    "react": "^16.4.0-alpha.0911da3",
+    "react-dom": "^16.4.0-alpha.0911da3",
+    "simple-cache-provider": "^0.3.0"
+  }
+}
